@@ -1,0 +1,9 @@
+HOW TO SET UP CODE::BLOCKS IDE FOR C++
+https://www.youtube.com/watch?v=Zty9nePczXs
+
+ONLINE JUDGES
+1. Outsbook - https://school.outsbook.com/
+2. Codeforces - https://codeforces.com/
+3. CodeChef - https://www.codechef.com/
+4. Toph - https://toph.co/
+5. Vjudge - https://vjudge.net/

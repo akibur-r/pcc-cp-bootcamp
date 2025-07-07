@@ -1,0 +1,47 @@
+LOOP HOMEWORK
+
+1.Print Numbers 1 to N
+   Input: N = 5
+   Output: 1 2 3 4 5
+2.Sum of First N Natural Numbers
+   Input: N = 10
+   Output: 55
+3. Print Even Numbers from 1 to N
+   Input: N = 10
+   Output: 2 4 6 8 10
+4. Print Multiplication Table of a Number
+   Input: 5
+   Output: 
+        5 x 1 = 5
+        5 x 2 = 20
+        …………..
+        .................
+        5 x 10 = 50
+5.Count the Digits in a Number
+   Input: 12345
+   Output: 5
+6.Reverse a Number using Loop
+   Input: 1234
+   Output: 4321
+7. Check if a Number is Prime
+   Input: 7
+   Output: Prime
+8.Find Factorial of a Number
+   Input: 5
+   Output: 120
+9.Sum of Digits
+   Input: 472
+   Output: 4 + 7 + 2 = 13
+10. Fibonacci Sequence up to N terms
+    Input: 6
+    Output: 0 1 1 2 3 5
+
+
+11. Print the below pattern using for, while and do while loop
+ 	*
+	**
+	***
+	****
+	*****
+
+Submit Your Homework here: https://forms.gle/xQ5Y3uRcER9a5qx86

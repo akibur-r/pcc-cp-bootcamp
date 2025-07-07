@@ -1,0 +1,49 @@
+1.Write a function to return the square of a number
+   Input: 4
+   Output: 16
+2.Write a function to find the maximum of two numbers
+   Input: a = 10, b = 20
+   Output: 20
+3. Write a function to check if a number is even
+   Input: 6
+   Output: Even
+4. Write a Function to print Hello N times
+   Input: 3
+   Output: Hello (3 times)
+5. Write a Function to find the sum of first N numbers
+   Input: N = 5
+   Output: 15
+6. Write a Function to reverse a number
+   Input: 123
+   Output: 321
+7. Write a Function to check whether a number is palindrome (search on google for palindrome)
+   Input: 121
+   Output: Palindrome
+8. Write a Function to calculate power (a^b)
+   Input: 2 3
+   Output: 8
+9. Write a Function to check whether a number is Armstrong
+   Input: 153
+   Output: Yes
+10. Write a Function to calculate the Greated Common Divisor (GCD) of two numbers
+    Input: 12 18
+    Output: 6
+
+11. Write a function to print the below sequence. (DO NOT USE LOOPS INSIDE THE FUNCTION. SOLVE WITH ONLY FUNCTION)
+    Input: 4
+    Output:
+    ****
+    ***
+    **
+    *
+
+    Input: 5
+    Output: 
+    *****
+    ****
+    ***
+    **
+    *
+
+
+Submit the homework here: https://forms.gle/Hi5qB6MyaQjUBjgd8

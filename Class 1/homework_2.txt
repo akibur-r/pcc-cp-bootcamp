@@ -1,0 +1,18 @@
+1.2.1 Write a program to find the maximum between three numbers.
+1.2.2 Write a program to check whether a number is negative, positive or zero.
+1.2.3 Write a program to check whether a number is divisible by 5 and 11 or not.
+1.2.4 Write a program to check whether a number is even or odd.
+1.2.5 Write a program to check whether a year is a leap year or not.
+1.2.6 Write a program to check whether a character is in the alphabet or not.
+1.2.7 Write a program to input any alphabet and check whether it is vowel or consonant.
+1.2.8 Write a program to input any character and check whether it is alphabet, digit or special character.
+1.2.9 Write a program to find CGPA, given the course, credit hours and obtained number.
+1.2.10 Write a program to input the month number and print the number of days in that month.
+
+1.2.11 Write a program to input electricity unit charges and calculate total electricity bill according to the given condition:
+For first 50 units 0.50 taka per unit
+For next 100 units 0.75 taka per unit
+For next 100 units 1.20 taka per unit
+For unit above 250 1.50 taka per unit
+An additional charge of 20% is added to the bill
+ 
